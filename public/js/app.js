@@ -1,8 +1,3 @@
-console.log('clienside js is loaded!')
-
-
-
-
 const weatherForm = document.querySelector('form')
 const seatchElem = document.querySelector('input')
 
